@@ -1,2 +1,2 @@
 # JustIT_Projects
-Projects completed during JustIT Data Technician Bootcamp
+Projects and work completed during JustIT Data Technician Bootcamp
