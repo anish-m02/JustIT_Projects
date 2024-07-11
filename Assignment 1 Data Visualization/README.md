@@ -1,1 +1,1 @@
-To view the step-by-step process of this project, view the [Assignment 1 Data Visualisation.docx](https://github.com/anish-m02/JustIT_Projects/blob/main/Assignment%201%20Data%20Visualization/Assignment%201%20Data%20Visualization.docx) file
+To view the step-by-step process of this project, view the [Assignment 1 Data Visualization.docx](https://github.com/anish-m02/JustIT_Projects/blob/main/Assignment%201%20Data%20Visualization/Assignment%201%20Data%20Visualization.docx) file
